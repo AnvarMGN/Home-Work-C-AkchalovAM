@@ -62,3 +62,26 @@ else
     Console.WriteLine("The number is odd");
 }
 */
+
+// Задача 8: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
+
+Console.Write("Inter some number: ");
+int Num1 = Convert.ToInt32(Console.ReadLine());
+int Lim = Num1; // Задаём лимитатор-ограничитель.
+int Num2 = Num1 - (Num1 - 1); // Переворачиваем вводное значение, чтобы вывод был по порядку(2, 4, 6, ..).
+int current = 1;
+
+while(current <= Lim)
+{   
+    if(Num2 % 2 == 0)
+    {
+        Console.Write(Num2 + ", ");
+        Num2 = Num2 + 1;
+        current += 1;
+    }
+    else
+    {
+        Num2 = Num2 + 1;
+        current ++;
+    }
+}
