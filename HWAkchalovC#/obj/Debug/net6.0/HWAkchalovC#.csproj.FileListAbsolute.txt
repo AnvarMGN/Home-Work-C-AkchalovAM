@@ -1,0 +1,15 @@
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC#\obj\Debug\net6.0\HWAkchalovC#.csproj.AssemblyReference.cache
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC#\obj\Debug\net6.0\HWAkchalovC#.GeneratedMSBuildEditorConfig.editorconfig
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC#\obj\Debug\net6.0\HWAkchalovC#.AssemblyInfoInputs.cache
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC#\obj\Debug\net6.0\HWAkchalovC#.AssemblyInfo.cs
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC#\obj\Debug\net6.0\HWAkchalovC#.csproj.CoreCompileInputs.cache
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC#\bin\Debug\net6.0\HWAkchalovC#.exe
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC#\bin\Debug\net6.0\HWAkchalovC#.deps.json
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC#\bin\Debug\net6.0\HWAkchalovC#.runtimeconfig.json
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC#\bin\Debug\net6.0\HWAkchalovC#.dll
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC#\bin\Debug\net6.0\HWAkchalovC#.pdb
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC#\obj\Debug\net6.0\HWAkchalovC#.dll
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC#\obj\Debug\net6.0\refint\HWAkchalovC#.dll
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC#\obj\Debug\net6.0\HWAkchalovC#.pdb
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC#\obj\Debug\net6.0\HWAkchalovC#.genruntimeconfig.cache
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC#\obj\Debug\net6.0\ref\HWAkchalovC#.dll
