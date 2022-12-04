@@ -6,7 +6,7 @@ int ModMethod(int num)
 {
     int des = num / 10;
     int ed = des % 10;
-// return    
+// return ed    
     int secNum = ed; 
     return secNum;
 }
@@ -14,10 +14,16 @@ int ModMethod(int num)
 Console.Write("Write a three-digit number: ");
 int thdNum = Convert.ToInt32(Console.ReadLine());
 
-int result = ModMethod(thdNum);
-
-// Console.WriteLine(result);
-Console.WriteLine("The second digit is " + result);
+if(thdNum >= 100 && thdNum < 1000)
+{
+    int result = ModMethod(thdNum);
+    // Console.WriteLine(result);
+    Console.WriteLine("The second digit is " + result);
+}
+else
+{
+    Console.WriteLine("Try again: Write a three-digit number.");
+}
 */
 
 // Task 13. Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
