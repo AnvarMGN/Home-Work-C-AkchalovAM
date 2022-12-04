@@ -1,5 +1,30 @@
-﻿// Задача 2: Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
+﻿// HOMEWORK FROM 04.12.2022
 
+// Task 10.  Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
+/*
+int ModMethod(int num)
+{
+    int des = num / 10;
+    int ed = des % 10;
+// return    
+    int secNum = ed; 
+    return secNum;
+}
+
+Console.Write("Write a three-digit number: ");
+int thdNum = Convert.ToInt32(Console.ReadLine());
+
+int result = ModMethod(thdNum);
+
+// Console.WriteLine(result);
+Console.WriteLine("The second digit is " + result);
+*/
+
+// Task 13. Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
+
+
+//HOME WORK FROM 30.11.2022
+// Задача 2: Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
 /*
 Console.Write("Input a first number:");
 int num1 = Convert.ToInt32(Console.ReadLine());
@@ -16,9 +41,7 @@ else
 }
 */
 
-
 // Задача 4: Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
-
 /*
 Console.Write("Inter some number: ");
 int num1 = Convert.ToInt32(Console.ReadLine());
@@ -46,9 +69,7 @@ else
 }
 */
 
-
 // Задача 6: Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
-
 /*
 Console.Write("Inter a number: ");
 int num = Convert.ToInt32(Console.ReadLine());
@@ -64,7 +85,6 @@ else
 */
 
 // Задача 8: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
-
 /*
 Console.Write("Inter some number: ");
 int Num1 = Convert.ToInt32(Console.ReadLine());
@@ -86,7 +106,6 @@ while(current <= Lim)
     current++;
 }
 */
-
 
 /* 
 Задача решена, но на последние числа в конце вывыодит запятую.
