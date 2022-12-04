@@ -73,20 +73,20 @@ int Num2 = Num1 - (Num1 - 1); // Переворачиваем(как в масс
 int current = 1;
 
 while(current <= Lim)
-{   
+{ 
     if(Num2 % 2 == 0)
     {
         Console.Write(Num2 + ", ");
         Num2 = Num2 + 1;
-        current += 1;
     }
     else
     {
         Num2 = Num2 + 1;
-        current ++;
     }
+    current++;
 }
 */
+
 
 /* 
 Задача решена, но на последние числа в конце вывыодит запятую.
