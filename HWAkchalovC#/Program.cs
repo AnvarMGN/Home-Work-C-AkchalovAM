@@ -28,6 +28,44 @@ else
 
 // Task 13. Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
 
+int Lim(int num)
+{
+    int sot = num;
+
+    if(sot > 99) sot = num;
+    else sot = -1;
+
+    int result = sot;
+
+    return result;
+}
+
+int ModNumber(int num)
+{
+    int thousand = num;
+    int counter = 0;
+
+    while(thousand >= 1000)
+    {
+        thousand = thousand / 10;
+        counter++;
+    }
+
+    int result = thousand % 10;
+
+    return result;
+}
+
+Console.Write("Inter your number: ");
+int randNum = Convert.ToInt32(Console.ReadLine()); // Число которое хотим задать мы.
+// int randNum = new Random().Next(1,99999999); // Произвольное число из отрезка от 1 до 99999999.
+int check = Lim(randNum); // Проверка перед поиском 3-го числа. По ветке "да" проходят числа больше 99.
+int number = ModNumber(check); /* Каждый раз делим число на 10, до тех пор пока оно не станет 3х значным. 
+Затем находим остаток от деления на 10.
+*/
+Console.WriteLine("Its third digit is " + number);
+// Console.WriteLine($"The specified number is {check}. Its third digit is {number}.");
+
 
 //HOME WORK FROM 30.11.2022
 // Задача 2: Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
