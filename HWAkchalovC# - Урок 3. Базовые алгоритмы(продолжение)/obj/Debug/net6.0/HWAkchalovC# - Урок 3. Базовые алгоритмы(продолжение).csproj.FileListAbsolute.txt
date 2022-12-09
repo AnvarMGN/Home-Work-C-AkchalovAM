@@ -1,0 +1,15 @@
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 3. Базовые алгоритмы(продолжение)\bin\Debug\net6.0\HWAkchalovC# - Урок 3. Базовые алгоритмы(продолжение).exe
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 3. Базовые алгоритмы(продолжение)\bin\Debug\net6.0\HWAkchalovC# - Урок 3. Базовые алгоритмы(продолжение).deps.json
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 3. Базовые алгоритмы(продолжение)\bin\Debug\net6.0\HWAkchalovC# - Урок 3. Базовые алгоритмы(продолжение).runtimeconfig.json
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 3. Базовые алгоритмы(продолжение)\bin\Debug\net6.0\HWAkchalovC# - Урок 3. Базовые алгоритмы(продолжение).dll
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 3. Базовые алгоритмы(продолжение)\bin\Debug\net6.0\HWAkchalovC# - Урок 3. Базовые алгоритмы(продолжение).pdb
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 3. Базовые алгоритмы(продолжение)\obj\Debug\net6.0\HWAkchalovC# - Урок 3. Базовые алгоритмы(продолжение).csproj.AssemblyReference.cache
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 3. Базовые алгоритмы(продолжение)\obj\Debug\net6.0\HWAkchalovC# - Урок 3. Базовые алгоритмы(продолжение).GeneratedMSBuildEditorConfig.editorconfig
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 3. Базовые алгоритмы(продолжение)\obj\Debug\net6.0\HWAkchalovC# - Урок 3. Базовые алгоритмы(продолжение).AssemblyInfoInputs.cache
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 3. Базовые алгоритмы(продолжение)\obj\Debug\net6.0\HWAkchalovC# - Урок 3. Базовые алгоритмы(продолжение).AssemblyInfo.cs
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 3. Базовые алгоритмы(продолжение)\obj\Debug\net6.0\HWAkchalovC# - Урок 3. Базовые алгоритмы(продолжение).csproj.CoreCompileInputs.cache
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 3. Базовые алгоритмы(продолжение)\obj\Debug\net6.0\HWAkchalovC# - Урок 3. Базовые алгоритмы(продолжение).dll
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 3. Базовые алгоритмы(продолжение)\obj\Debug\net6.0\refint\HWAkchalovC# - Урок 3. Базовые алгоритмы(продолжение).dll
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 3. Базовые алгоритмы(продолжение)\obj\Debug\net6.0\HWAkchalovC# - Урок 3. Базовые алгоритмы(продолжение).pdb
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 3. Базовые алгоритмы(продолжение)\obj\Debug\net6.0\HWAkchalovC# - Урок 3. Базовые алгоритмы(продолжение).genruntimeconfig.cache
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 3. Базовые алгоритмы(продолжение)\obj\Debug\net6.0\ref\HWAkchalovC# - Урок 3. Базовые алгоритмы(продолжение).dll
