@@ -61,3 +61,26 @@ double zBpoint = Convert.ToDouble(Console.ReadLine());
 double resaltDistsnce = Distance(xApoint, yApoint, zApoint, xBpoint, yBpoint, zBpoint);
 Console.WriteLine($"Distanse bitween points A({xApoint};{yApoint};{zApoint}) and B({xBpoint};{yBpoint};{zBpoint}) is equal to {resaltDistsnce}.");
 */
+
+//Задача 23.
+//Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N.
+/*
+void String( int n)
+{
+    if(n > 0)
+    {
+        int counter = 1;
+        while(counter <= n)
+        {
+            Console.Write(Math.Pow(counter,3));
+            if(counter != n) Console.Write(", ");
+            counter ++;
+        }
+    }
+    else Console.WriteLine("Input number > 0.");
+}
+
+Console.Write("Input youre number: ");
+int randNum = Convert.ToInt32(Console.ReadLine());
+String(randNum);
+*/
