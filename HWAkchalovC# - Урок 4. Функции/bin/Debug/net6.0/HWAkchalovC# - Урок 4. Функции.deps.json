@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HWAkchalovC# - Урок 4. Функции/1.0.0": {
+        "runtime": {
+          "HWAkchalovC# - Урок 4. Функции.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HWAkchalovC# - Урок 4. Функции/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

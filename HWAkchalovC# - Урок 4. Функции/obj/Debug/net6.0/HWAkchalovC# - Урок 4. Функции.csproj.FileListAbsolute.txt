@@ -1,0 +1,15 @@
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 4. Функции\bin\Debug\net6.0\HWAkchalovC# - Урок 4. Функции.exe
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 4. Функции\bin\Debug\net6.0\HWAkchalovC# - Урок 4. Функции.deps.json
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 4. Функции\bin\Debug\net6.0\HWAkchalovC# - Урок 4. Функции.runtimeconfig.json
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 4. Функции\bin\Debug\net6.0\HWAkchalovC# - Урок 4. Функции.dll
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 4. Функции\bin\Debug\net6.0\HWAkchalovC# - Урок 4. Функции.pdb
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 4. Функции\obj\Debug\net6.0\HWAkchalovC# - Урок 4. Функции.csproj.AssemblyReference.cache
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 4. Функции\obj\Debug\net6.0\HWAkchalovC# - Урок 4. Функции.GeneratedMSBuildEditorConfig.editorconfig
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 4. Функции\obj\Debug\net6.0\HWAkchalovC# - Урок 4. Функции.AssemblyInfoInputs.cache
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 4. Функции\obj\Debug\net6.0\HWAkchalovC# - Урок 4. Функции.AssemblyInfo.cs
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 4. Функции\obj\Debug\net6.0\HWAkchalovC# - Урок 4. Функции.csproj.CoreCompileInputs.cache
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 4. Функции\obj\Debug\net6.0\HWAkchalovC# - Урок 4. Функции.dll
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 4. Функции\obj\Debug\net6.0\refint\HWAkchalovC# - Урок 4. Функции.dll
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 4. Функции\obj\Debug\net6.0\HWAkchalovC# - Урок 4. Функции.pdb
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 4. Функции\obj\Debug\net6.0\HWAkchalovC# - Урок 4. Функции.genruntimeconfig.cache
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 4. Функции\obj\Debug\net6.0\ref\HWAkchalovC# - Урок 4. Функции.dll
