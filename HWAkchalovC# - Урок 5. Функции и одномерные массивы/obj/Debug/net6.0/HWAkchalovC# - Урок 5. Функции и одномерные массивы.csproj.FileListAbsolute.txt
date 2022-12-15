@@ -1,0 +1,15 @@
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 5. Функции и одномерные массивы\bin\Debug\net6.0\HWAkchalovC# - Урок 5. Функции и одномерные массивы.exe
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 5. Функции и одномерные массивы\bin\Debug\net6.0\HWAkchalovC# - Урок 5. Функции и одномерные массивы.deps.json
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 5. Функции и одномерные массивы\bin\Debug\net6.0\HWAkchalovC# - Урок 5. Функции и одномерные массивы.runtimeconfig.json
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 5. Функции и одномерные массивы\bin\Debug\net6.0\HWAkchalovC# - Урок 5. Функции и одномерные массивы.dll
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 5. Функции и одномерные массивы\bin\Debug\net6.0\HWAkchalovC# - Урок 5. Функции и одномерные массивы.pdb
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 5. Функции и одномерные массивы\obj\Debug\net6.0\HWAkchalovC# - Урок 5. Функции и одномерные массивы.csproj.AssemblyReference.cache
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 5. Функции и одномерные массивы\obj\Debug\net6.0\HWAkchalovC# - Урок 5. Функции и одномерные массивы.GeneratedMSBuildEditorConfig.editorconfig
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 5. Функции и одномерные массивы\obj\Debug\net6.0\HWAkchalovC# - Урок 5. Функции и одномерные массивы.AssemblyInfoInputs.cache
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 5. Функции и одномерные массивы\obj\Debug\net6.0\HWAkchalovC# - Урок 5. Функции и одномерные массивы.AssemblyInfo.cs
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 5. Функции и одномерные массивы\obj\Debug\net6.0\HWAkchalovC# - Урок 5. Функции и одномерные массивы.csproj.CoreCompileInputs.cache
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 5. Функции и одномерные массивы\obj\Debug\net6.0\HWAkchalovC# - Урок 5. Функции и одномерные массивы.dll
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 5. Функции и одномерные массивы\obj\Debug\net6.0\refint\HWAkchalovC# - Урок 5. Функции и одномерные массивы.dll
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 5. Функции и одномерные массивы\obj\Debug\net6.0\HWAkchalovC# - Урок 5. Функции и одномерные массивы.pdb
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 5. Функции и одномерные массивы\obj\Debug\net6.0\HWAkchalovC# - Урок 5. Функции и одномерные массивы.genruntimeconfig.cache
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 5. Функции и одномерные массивы\obj\Debug\net6.0\ref\HWAkchalovC# - Урок 5. Функции и одномерные массивы.dll
