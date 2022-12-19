@@ -1,0 +1,15 @@
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 6. Одномерные массивы - продолжение\bin\Debug\net6.0\HWAkchalovC# - Урок 6. Одномерные массивы - продолжение.exe
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 6. Одномерные массивы - продолжение\bin\Debug\net6.0\HWAkchalovC# - Урок 6. Одномерные массивы - продолжение.deps.json
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 6. Одномерные массивы - продолжение\bin\Debug\net6.0\HWAkchalovC# - Урок 6. Одномерные массивы - продолжение.runtimeconfig.json
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 6. Одномерные массивы - продолжение\bin\Debug\net6.0\HWAkchalovC# - Урок 6. Одномерные массивы - продолжение.dll
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 6. Одномерные массивы - продолжение\bin\Debug\net6.0\HWAkchalovC# - Урок 6. Одномерные массивы - продолжение.pdb
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 6. Одномерные массивы - продолжение\obj\Debug\net6.0\HWAkchalovC# - Урок 6. Одномерные массивы - продолжение.csproj.AssemblyReference.cache
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 6. Одномерные массивы - продолжение\obj\Debug\net6.0\HWAkchalovC# - Урок 6. Одномерные массивы - продолжение.GeneratedMSBuildEditorConfig.editorconfig
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 6. Одномерные массивы - продолжение\obj\Debug\net6.0\HWAkchalovC# - Урок 6. Одномерные массивы - продолжение.AssemblyInfoInputs.cache
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 6. Одномерные массивы - продолжение\obj\Debug\net6.0\HWAkchalovC# - Урок 6. Одномерные массивы - продолжение.AssemblyInfo.cs
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 6. Одномерные массивы - продолжение\obj\Debug\net6.0\HWAkchalovC# - Урок 6. Одномерные массивы - продолжение.csproj.CoreCompileInputs.cache
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 6. Одномерные массивы - продолжение\obj\Debug\net6.0\HWAkchalovC# - Урок 6. Одномерные массивы - продолжение.dll
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 6. Одномерные массивы - продолжение\obj\Debug\net6.0\refint\HWAkchalovC# - Урок 6. Одномерные массивы - продолжение.dll
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 6. Одномерные массивы - продолжение\obj\Debug\net6.0\HWAkchalovC# - Урок 6. Одномерные массивы - продолжение.pdb
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 6. Одномерные массивы - продолжение\obj\Debug\net6.0\HWAkchalovC# - Урок 6. Одномерные массивы - продолжение.genruntimeconfig.cache
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 6. Одномерные массивы - продолжение\obj\Debug\net6.0\ref\HWAkchalovC# - Урок 6. Одномерные массивы - продолжение.dll
