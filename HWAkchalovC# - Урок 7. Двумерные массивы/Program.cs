@@ -99,3 +99,64 @@ Console.WriteLine();
 
 CheckArray(myArray, numM,numN);
 */
+
+// Задача 52.
+// Задайте двумерный массив из целых чисел. 
+// Найдите среднее арифметическое элементов в каждом столбце.
+/*
+int[,] CreateRandom2dArray()
+{
+    Console.Write("Input rows: ");
+    int rows = Convert.ToInt32(Console.ReadLine());
+    Console.Write("Input colums: ");
+    int colums = Convert.ToInt32(Console.ReadLine());
+    Console.Write("Input minValue: ");
+    int minValue = Convert.ToInt32(Console.ReadLine());
+    Console.Write("Input maxValue: ");
+    int maxValue = Convert.ToInt32(Console.ReadLine());
+
+    int[,] array = new int[rows, colums];
+
+    for(int i = 0; i < rows; i++)
+        for(int j = 0; j < colums; j++)
+            array[i,j] = new Random().Next(minValue, maxValue + 1);
+    return array;
+}
+
+void Show2dArray(int [,] array)
+{
+    for(int i = 0; i < array.GetLength(0); i++)
+    {
+        for(int j = 0; j < array.GetLength(1); j++)
+        {
+            Console.Write($"{array[i,j]} ({i};{j})  ");
+        }
+        Console.WriteLine();
+    }
+    Console.WriteLine();
+}
+
+void ArifMean(int[,] array)
+{
+    double arifMean = 0;
+
+    for(int j = 0; j < array.GetLength(1); j++)
+    {
+        double sumJ = 0;
+
+        for(int i = 0; i < array.GetLength(0); i++)
+        {
+            sumJ = sumJ + array[i,j];
+        }
+
+        arifMean = Math.Round((sumJ/array.GetLength(1)),1);
+
+        Console.Write($"{j}) {sumJ}/{array.GetLength(1)}={arifMean}  ");
+    }
+}
+
+int[,] myArray = CreateRandom2dArray();
+Show2dArray(myArray);
+
+ArifMean(myArray);
+*/
