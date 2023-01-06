@@ -1,0 +1,15 @@
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 9. Рекурсия\bin\Debug\net6.0\HWAkchalovC# - Урок 9. Рекурсия.exe
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 9. Рекурсия\bin\Debug\net6.0\HWAkchalovC# - Урок 9. Рекурсия.deps.json
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 9. Рекурсия\bin\Debug\net6.0\HWAkchalovC# - Урок 9. Рекурсия.runtimeconfig.json
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 9. Рекурсия\bin\Debug\net6.0\HWAkchalovC# - Урок 9. Рекурсия.dll
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 9. Рекурсия\bin\Debug\net6.0\HWAkchalovC# - Урок 9. Рекурсия.pdb
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 9. Рекурсия\obj\Debug\net6.0\HWAkchalovC# - Урок 9. Рекурсия.csproj.AssemblyReference.cache
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 9. Рекурсия\obj\Debug\net6.0\HWAkchalovC# - Урок 9. Рекурсия.GeneratedMSBuildEditorConfig.editorconfig
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 9. Рекурсия\obj\Debug\net6.0\HWAkchalovC# - Урок 9. Рекурсия.AssemblyInfoInputs.cache
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 9. Рекурсия\obj\Debug\net6.0\HWAkchalovC# - Урок 9. Рекурсия.AssemblyInfo.cs
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 9. Рекурсия\obj\Debug\net6.0\HWAkchalovC# - Урок 9. Рекурсия.csproj.CoreCompileInputs.cache
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 9. Рекурсия\obj\Debug\net6.0\HWAkchalovC# - Урок 9. Рекурсия.dll
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 9. Рекурсия\obj\Debug\net6.0\refint\HWAkchalovC# - Урок 9. Рекурсия.dll
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 9. Рекурсия\obj\Debug\net6.0\HWAkchalovC# - Урок 9. Рекурсия.pdb
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 9. Рекурсия\obj\Debug\net6.0\HWAkchalovC# - Урок 9. Рекурсия.genruntimeconfig.cache
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 9. Рекурсия\obj\Debug\net6.0\ref\HWAkchalovC# - Урок 9. Рекурсия.dll
