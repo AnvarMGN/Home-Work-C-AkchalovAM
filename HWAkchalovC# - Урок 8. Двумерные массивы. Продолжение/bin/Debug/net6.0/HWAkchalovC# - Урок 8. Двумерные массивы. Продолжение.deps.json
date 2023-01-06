@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HWAkchalovC# - Урок 8. Двумерные массивы. Продолжение/1.0.0": {
+        "runtime": {
+          "HWAkchalovC# - Урок 8. Двумерные массивы. Продолжение.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HWAkchalovC# - Урок 8. Двумерные массивы. Продолжение/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

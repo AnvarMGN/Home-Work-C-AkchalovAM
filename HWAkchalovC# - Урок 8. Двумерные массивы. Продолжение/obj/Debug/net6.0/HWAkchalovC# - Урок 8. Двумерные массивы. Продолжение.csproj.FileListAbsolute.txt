@@ -1,0 +1,15 @@
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 8. Двумерные массивы. Продолжение\obj\Debug\net6.0\HWAkchalovC# - Урок 8. Двумерные массивы. Продолжение.csproj.AssemblyReference.cache
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 8. Двумерные массивы. Продолжение\obj\Debug\net6.0\HWAkchalovC# - Урок 8. Двумерные массивы. Продолжение.GeneratedMSBuildEditorConfig.editorconfig
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 8. Двумерные массивы. Продолжение\obj\Debug\net6.0\HWAkchalovC# - Урок 8. Двумерные массивы. Продолжение.AssemblyInfoInputs.cache
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 8. Двумерные массивы. Продолжение\obj\Debug\net6.0\HWAkchalovC# - Урок 8. Двумерные массивы. Продолжение.AssemblyInfo.cs
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 8. Двумерные массивы. Продолжение\obj\Debug\net6.0\HWAkchalovC# - Урок 8. Двумерные массивы. Продолжение.csproj.CoreCompileInputs.cache
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 8. Двумерные массивы. Продолжение\bin\Debug\net6.0\HWAkchalovC# - Урок 8. Двумерные массивы. Продолжение.exe
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 8. Двумерные массивы. Продолжение\bin\Debug\net6.0\HWAkchalovC# - Урок 8. Двумерные массивы. Продолжение.deps.json
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 8. Двумерные массивы. Продолжение\bin\Debug\net6.0\HWAkchalovC# - Урок 8. Двумерные массивы. Продолжение.runtimeconfig.json
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 8. Двумерные массивы. Продолжение\bin\Debug\net6.0\HWAkchalovC# - Урок 8. Двумерные массивы. Продолжение.dll
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 8. Двумерные массивы. Продолжение\bin\Debug\net6.0\HWAkchalovC# - Урок 8. Двумерные массивы. Продолжение.pdb
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 8. Двумерные массивы. Продолжение\obj\Debug\net6.0\HWAkchalovC# - Урок 8. Двумерные массивы. Продолжение.dll
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 8. Двумерные массивы. Продолжение\obj\Debug\net6.0\refint\HWAkchalovC# - Урок 8. Двумерные массивы. Продолжение.dll
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 8. Двумерные массивы. Продолжение\obj\Debug\net6.0\HWAkchalovC# - Урок 8. Двумерные массивы. Продолжение.pdb
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 8. Двумерные массивы. Продолжение\obj\Debug\net6.0\HWAkchalovC# - Урок 8. Двумерные массивы. Продолжение.genruntimeconfig.cache
+W:\GeekBrains\Repository\HomeWorkAkchalovAM_C#\HWAkchalovC# - Урок 8. Двумерные массивы. Продолжение\obj\Debug\net6.0\ref\HWAkchalovC# - Урок 8. Двумерные массивы. Продолжение.dll
